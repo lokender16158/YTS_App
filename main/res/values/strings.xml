@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YTS</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_date">Date</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_quality">Quality</string>
+    <string name="movie_size">Size</string>
+        <string-array name="movie_sort_options">
+            <item>Latest</item>
+            <item>Seeds</item>
+            <item>Peers</item>
+            <item>Year</item>
+            <item>Rating</item>
+            <item>Likes</item>
+            <item>Downloads</item>
+        </string-array>
+</resources>
